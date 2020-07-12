@@ -1,9 +1,9 @@
-### Hi 
+### Hi 👋
 
-my blog: https://sorryfu.top/
+blog: https://sorryfu.top/
 
-my wiki: https://sorryfu.top/wiki/
+wiki: https://sorryfu.top/wiki/
 
-### contact me
+### contact 👴
 
 1563250958@qq.com
