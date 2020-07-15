@@ -5,7 +5,7 @@
 ````
 ````bash
 > help --contact
-> personal site: https://sorryfu.top/
+> blog: https://sorryfu.top/
 > github: FuShoLei
 > email: 1563250958@qq.com
 ````
