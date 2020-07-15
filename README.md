@@ -1,8 +1,7 @@
-### Hi 👋
 
-blog: https://sorryfu.top/
-
-wiki: https://sorryfu.top/wiki/
+![](https://cdn.jsdelivr.net/gh/fushaolei/img/20200516201354.jpg)
+### Hello you mother fucker !
+personal site: https://sorryfu.top/
 
 ### contact 👴
 
