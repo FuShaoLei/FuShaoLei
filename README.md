@@ -1,6 +1,6 @@
 <h2> Hi, I'm FuShaolei! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://cdn.jsdelivr.net/gh/fushaolei/img/20200717001629.gif" width="130">
+<img align='right' src="https://cdn.jsdelivr.net/gh/fushaolei/img/20200717001629.gif" width="80">
 
 ````bash
 > help --info
