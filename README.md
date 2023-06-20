@@ -2,7 +2,6 @@
 
 我是 [@FuShaoLei](https://github.com/FuShaoLei)， 我热爱开源， 喜欢自由的软件
 
-最近在维护[https://github.com/FuShaoLei/hexo-theme-white](https://github.com/FuShaoLei/hexo-theme-white)
 
 | 链接                                                       | 说明                                                         |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
