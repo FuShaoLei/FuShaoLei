@@ -1,6 +1,11 @@
 你好，有缘人。
 
+
 我是 [@FuShaoLei](https://github.com/FuShaoLei)， 我热爱开源， 喜欢自由的软件
+
+- Blog: https://fushaolei.github.io/
+- NotePad: https://fushaolei.github.io/notepad/
+
 
 
 | 链接                                                       | 说明                                                         |
