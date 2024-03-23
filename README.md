@@ -3,10 +3,12 @@
 
 我是 [@FuShaoLei](https://github.com/FuShaoLei)， 我热爱开源， 喜欢自由的软件
 
-- Blog: https://fushaolei.github.io/
-- NotePad: https://fushaolei.github.io/notepad/
+Fine Me In：
 
+- 博客: https://fushaolei.github.io/
+- 笔记本: https://fushaolei.github.io/notepad/
 
+下面是我的一些作品（?）
 
 | 链接                                                       | 说明                                                         |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
