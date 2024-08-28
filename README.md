@@ -1,7 +1,9 @@
-你好，有缘人。
+👋 Hello
 
 
-我是 [@FuShaoLei](https://github.com/FuShaoLei)， 我热爱开源， 喜欢自由
+I like open source and free software
+
+fuck the world 
 
 Fine Me In：
 
