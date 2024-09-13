@@ -1,8 +1,6 @@
-## 👋 Hello Stranger
+## 👋 Hello
 
-I like open source and free software
-
-fuck the world 
+I like open source
 
 Fine Me In：
 
