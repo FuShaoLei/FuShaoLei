@@ -1,6 +1,6 @@
 ## 👋 Hello
 
-I like open source
+fuck the world
 
 Fine Me In：
 
