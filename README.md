@@ -4,8 +4,9 @@ Blog: https://fushaolei.github.io/
 
 ## 小工具
 
-- 流媒体封面制作：[CoverMaker](https://fushaolei.github.io/CoverMaker2/)
-- yt-dlp 助手：[YdHelper](https://fushaolei.github.io/YdHelper/)
+- [流媒体封面制作](https://fushaolei.github.io/CoverMaker2/)
+- [yt-dlp 助手](https://fushaolei.github.io/YdHelper/)
+- [每日诗词](https://fushaolei.github.io/DailyPoetry/)
 
 ## 个人常用
 
