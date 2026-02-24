@@ -7,6 +7,7 @@ Blog: https://fushaolei.github.io/
 - [流媒体封面制作](https://fushaolei.github.io/CoverMaker2/)
 - [yt-dlp 助手](https://fushaolei.github.io/YdHelper/)
 - [每日诗词](https://fushaolei.github.io/DailyPoetry/)
+- [NotesDance](https://fushaolei.github.io/NotesDance/)
 
 ## 个人常用
 
